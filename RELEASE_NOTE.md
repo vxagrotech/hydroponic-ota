@@ -1,5 +1,10 @@
 # Release History
 
+## v2.0.4
+- Recalibrate Ec factor to align with Hanna Instrument meter
+
+---
+
 ## v2.0.3
 - Improved Blynk connection stability.
 - Improved OTA network reliability.
